@@ -1,1 +1,1 @@
-# OOKP
+# Object-oriented-construction-of-programs
